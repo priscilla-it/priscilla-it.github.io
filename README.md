@@ -1,17 +1,17 @@
 # Mods
 
 ## Без изменения оригинальной специфики схемы:
-- **BOSS DA-2 Hi-Fi mod** - ***2800***
-- **BOSS DD-20 Hi-Fi mod** - ***2800***
-- **BOSS OD-3 Hi-Fi mod** - ***2800***
+- BOSS **DA-2 Hi-Fi** mod - ***2800***
+- BOSS **DD-20 Hi-Fi** mod - ***2800***
+- BOSS **OD-3 Hi-Fi** mod - ***2800***
 
   ※ TK have this by **SPI**, **WAXX**
   ※ SPI = WAXX = WEED = PFX
 
 ## Изменение специфики схемы + Hi-Fi:
-- **BOSS LS-2 TK mod (SPI = WAXX)** - ***4800***
-- **BOSS OD-3 TK mod (SPI)** - ***6800***
-- **BOSS SPH-1 TK mod (SPI + WAXX in one with 2 toggle switches)** - ***8800***
+- BOSS **LS-2 TK** mod (SPI = WAXX) - ***4800***
+- BOSS **OD-3 TK** mod (SPI) - ***6800***
+- BOSS **SPH-1 TK** mod (SPI + WAXX in one with 2 toggle switches) - ***8800***
 
 ---
 
