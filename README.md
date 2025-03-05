@@ -5,13 +5,12 @@
 - BOSS **DD-20 Hi-Fi** mod - ***2800***
 - BOSS **OD-3 Hi-Fi** mod - ***2800***
 
-  ※ TK have this by **SPI**, **WAXX**
-  ※ SPI = WAXX = WEED = PFX
+  ※ TK have this by **SPI**, **WAXX**. SPI = WAXX = WEED = PFX in Hi-Fi category.
 
 ## Изменение специфики схемы + Hi-Fi:
-- BOSS **LS-2 TK** mod (SPI = WAXX) - ***4800***
-- BOSS **OD-3 TK** mod (SPI) - ***6800***
-- BOSS **SPH-1 TK** mod (SPI + WAXX in one with 2 toggle switches) - ***8800***
+- BOSS **LS-2 TK** mod - ***4800*** (SPI = WAXX)
+- BOSS **OD-3 TK** mod - ***6800*** (SPI)
+- BOSS **SPH-1 TK** mod - ***8800*** (SPI + WAXX in one with 2 toggle switches)
 
 ---
 
