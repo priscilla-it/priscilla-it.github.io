@@ -5,7 +5,8 @@
 - **BOSS DD-20 Hi-Fi mod** - 2800
 - **BOSS OD-3 Hi-Fi mod** - 2800
 
-  ※ TK have this by **SPI**, **WAXX**.
+  ※ TK have this by **SPI**, **WAXX**
+  
   ※ SPI = WAXX = WEED = PFX
 
 ## Изменение специфики схемы + Hi-Fi:
@@ -17,9 +18,10 @@
 
 # Custom
 - **LS-SR v1** - 2800  
-  ※ Line Selector, 3PDT button, no additional functionality.
+  ※ Line Selector, 3PDT button, no additional functionality
+
 - **HB Booster (9-18v)** - 4800  
-  ※ Hot Drive'n'Boost MK3 booster channel copy, 18v is canonical for MK3.
+  ※ Hot Drive'n'Boost MK3 booster channel copy, 18v is canonical for MK3
 - **OD-820** - 13800  
   ※ Maxon copy
 - **「TS-S」** - 16800 (Предварительный ценник)
