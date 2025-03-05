@@ -1,62 +1,53 @@
 # Mods
 
 ## Без изменения оригинальной специфики схемы:
-- **BOSS DA-2 Hi-Fi mod** - 2800 
-- **BOSS DD-20 Hi-Fi mod** - 2800
-- **BOSS OD-3 Hi-Fi mod** - 2800
+- **BOSS DA-2 Hi-Fi mod** - ***2800***  
+- **BOSS DD-20 Hi-Fi mod** - ***2800***  
+- **BOSS OD-3 Hi-Fi mod** - ***2800***  
 
-  ※ TK have this by **SPI**, **WAXX**
-
-  
-  ※ SPI = WAXX = WEED = PFX
+  ※ TK have this by **SPI**, **WAXX**  
+  ※ SPI = WAXX = WEED = PFX  
 
 ## Изменение специфики схемы + Hi-Fi:
-- **BOSS LS-2 TK mod (SPI = WAXX)** - 4800  
-- **BOSS OD-3 TK mod (SPI)** - 6800   
-- **BOSS SPH-1 TK mod (SPI + WAXX in one with 2 toggle switches)** - 8800  
+- **BOSS LS-2 TK mod (SPI = WAXX)** - ***4800***  
+- **BOSS OD-3 TK mod (SPI)** - ***6800***  
+- **BOSS SPH-1 TK mod (SPI + WAXX in one with 2 toggle switches)** - ***8800***  
 
 ---
 
 # Custom
-- **LS-SR v1** - 2800  
-  ※ Line Selector, 3PDT button, no additional functionality
+- **LS-SR v1** - ***2800***  
+  ※ Line Selector, 3PDT button, no additional functionality  
 
+- **HB Booster (9-18v)** - ***4800***  
+  ※ Hot Drive'n'Boost MK3 booster channel copy, 18v is canonical for MK3  
 
-- **HB Booster (9-18v)** - 4800  
-  ※ Hot Drive'n'Boost MK3 booster channel copy, 18v is canonical for MK3
+- **OD-820** - ***13800***  
+  ※ Maxon copy  
 
-  
-- **OD-820** - 13800  
-  ※ Maxon copy
+- **「TS-S」** - ***16800*** (Предварительный ценник)  
+  ※ Special Overdrive  
 
-  
-- **「TS-S」** - 16800 (Предварительный ценник)
-  ※ Special Overdrive
+- **「M」** - ***16800*** (Предварительный ценник)  
+  ※ Modern Overdrive  
 
-  
-- **「M」** - 16800 (Предварительный ценник)
-  ※ Modern Overdrive
-
-  
-- **「PRISCILLA」** - 16800 (Предварительный ценник)
-  ※ Overdrive-Distortion
+- **「PRISCILLA」** - ***16800*** (Предварительный ценник)  
+  ※ Overdrive-Distortion  
 
 ---
 
 # WIP
-- **Maxon OD-820 TK mod - ?**
-  ※ SPI - 2 knob Parametric EQ)
+- **Maxon OD-820 TK mod - ?**  
+  ※ SPI - 2 knob Parametric EQ  
 
-  
-- **BOSS BD-2 TK mod - ?**
-  ※ SPI - Double SW, 2 knob Clean mix
+- **BOSS BD-2 TK mod - ?**  
+  ※ SPI - Double SW, 2 knob Clean mix  
 
-  
-- **Priscilla FX LS-SR v2 - 4800**
-  ※ Line Selector, Relay silent button, volume
+- **Priscilla FX LS-SR v2 - 4800**  
+  ※ Line Selector, Relay silent button, volume  
 
-  
-- **Priscilla FX Toshin Phaser - ?**
-  ※ Arion...
-- **Priscilla FX Nekomata Phaser - ?**
-  ※ SPI Nekomata copy
+- **Priscilla FX Toshin Phaser - ?**  
+  ※ Arion...  
+
+- **Priscilla FX Nekomata Phaser - ?**  
+  ※ SPI Nekomata copy  
