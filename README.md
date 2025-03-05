@@ -26,7 +26,7 @@
 - **Priscilla FX 「HB Booster」(9-18v)** — ***4800 ₽***
 
   ※ Hot Drive'n'Boost MK3 booster channel copy, 18v is canonical for MK3
-
+  
 - **Priscilla FX 「OD-820」** — ***13800 ₽***
 
   ※ Maxon copy
@@ -35,9 +35,11 @@
 
   ※ Special Overdrive
 
+
 - **Priscilla FX「M」** — ***16800 ₽*** (Предварительный ценник)
 
   ※ Modern Overdrive
+
 
 - **Priscilla FX「PRISCILLA」** — ***16800 ₽*** (Предварительный ценник)
 
