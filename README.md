@@ -1,15 +1,17 @@
 # Pricilla Fx Price List
 
-## Mods
+**Связаться с нами: https://t.me/priscilla_ef**
 
-## Без изменения оригинальной специфики схемы (Hi-Fi):
+## Mods:
+
+### Без изменения оригинальной специфики схемы (Hi-Fi):
 - BOSS **DA-2 Hi-Fi** mod — ***2800 ₽***
 - BOSS **DD-20 Hi-Fi** mod — ***2800 ₽***
 - BOSS **OD-3 Hi-Fi** mod — ***2800 ₽***
 
   ※ TK имеет **SPI**, **WAXX**. В категории Hi-Fi - SPI, WAXX, WEED, PFX эквивалентны друг другу.
 
-## Изменение специфики схемы + Hi-Fi:
+### Изменение специфики схемы + Hi-Fi:
 - BOSS **LS-2 TK** mod — ***4800 ₽*** (SPI = WAXX)
 - BOSS **OD-3 TK** mod — ***6800 ₽*** (SPI)
 - BOSS **SPH-1 TK** mod — ***8800 ₽*** (SPI + WAXX in one with 2 toggle switches)
