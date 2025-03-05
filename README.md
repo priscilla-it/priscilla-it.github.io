@@ -43,5 +43,5 @@
   ※ Line Selector, Relay silent button, volume 
 - **Priscilla FX Toshin Phaser - ?**
   ※ Arion...
-- **Priscilla FX Nekomata Phaser - ?**  
+- **Priscilla FX Nekomata Phaser - ?**
   ※ SPI Nekomata copy
