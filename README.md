@@ -12,9 +12,9 @@
   ※ TK имеет **SPI**, **WAXX**. В категории Hi-Fi - SPI, WAXX, WEED, PFX эквивалентны друг другу.
 
 ### Изменение специфики схемы + Hi-Fi:
-- BOSS **LS-2 TK** mod — ***4800 ₽*** (SPI = WAXX)
-- BOSS **OD-3 TK** mod — ***6800 ₽*** (SPI)
-- BOSS **SPH-1 TK** mod — ***8800 ₽*** (SPI + WAXX in one with 2 toggle switches)
+- BOSS **LS-2 TK** mod (SPI = WAXX) — ***4800 ₽*** 
+- BOSS **OD-3 TK** mod (SPI) — ***6800 ₽*** 
+- BOSS **SPH-1 TK** mod (SPI + WAXX in one with 2 toggle switches) — ***8800 ₽*** 
 
 ---
 
