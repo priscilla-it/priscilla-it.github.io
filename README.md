@@ -1,11 +1,11 @@
 # Mods
 
-## Без изменения оригинальной специфики схемы:
+## Без изменения оригинальной специфики схемы (Hi-Fi):
 - BOSS **DA-2 Hi-Fi** mod — ***2800***
 - BOSS **DD-20 Hi-Fi** mod — ***2800***
 - BOSS **OD-3 Hi-Fi** mod — ***2800***
 
-  ※ TK have this by **SPI**, **WAXX**. SPI = WAXX = WEED = PFX in Hi-Fi category.
+  ※ TK имеет **SPI**, **WAXX**. В категории Hi-Fi - SPI, WAXX, WEED, PFX эквивалентны друг другу.
 
 ## Изменение специфики схемы + Hi-Fi:
 - BOSS **LS-2 TK** mod — ***4800*** (SPI = WAXX)
