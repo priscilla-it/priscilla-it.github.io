@@ -2,6 +2,26 @@
 
 *[Связаться с нами: https://t.me/priscilla_ef](https://t.me/priscilla_ef)*
 
+| Категория          | Название                      | Цена (₽) |
+|--------------------|-------------------------------|----------|
+| **Mods: Hi-Fi**    | BOSS DA-2 Hi-Fi mod           | 2800     |
+|                    | BOSS DD-20 Hi-Fi mod          | 2800     |
+|                    | BOSS OD-3 Hi-Fi mod           | 2800     |
+| **Mods: TK**       | BOSS LS-2 TK mod              | 4800     |
+|                    | BOSS OD-3 TK mod              | 6800     |
+|                    | BOSS SPH-1 TK mod             | 8800     |
+| **Custom**         | Priscilla FX 「LS-SR」 v1     | 2800     |
+|                    | Priscilla FX 「HB Booster」   | 4800     |
+|                    | Priscilla FX 「OD-820」       | 13800    |
+|                    | Priscilla FX「TS-S」          | 16800    |
+|                    | Priscilla FX「M」             | 16800    |
+|                    | Priscilla FX「PRISCILLA」     | 16800    |
+| **Work in Progress** | Maxon OD-820 TK mod         | ?        |
+|                    | BOSS BD-2 TK mod              | ?        |
+|                    | Priscilla FX LS-SR v2         | 4800     |
+|                    | Priscilla FX Toshin Phaser    | ?        |
+|                    | Priscilla FX Nekomata Phaser  | ?        |
+
 ## Mods:
 
 ### Без изменения оригинальной специфики схемы (Hi-Fi):
