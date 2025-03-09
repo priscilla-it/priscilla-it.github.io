@@ -4,6 +4,8 @@
 
 | Категория          | Название                      | Цена (₽) |
 |--------------------|-------------------------------|----------|
+| **Repair**         | ZOOM MS-50G (+ LED)           | Уточнять в переписке |
+|                    | Digitech Digidelay (+ LED)    | Уточнять в переписке |
 | **Mods: Hi-Fi**    | BOSS DA-2 Hi-Fi mod           | 2800     |
 |                    | BOSS DD-20 Hi-Fi mod          | 2800     |
 |                    | BOSS OD-3 Hi-Fi mod           | 2800     |
@@ -21,6 +23,11 @@
 |                    | Priscilla FX LS-SR v2         | 4800     |
 |                    | Priscilla FX Toshin Phaser    | ?        |
 |                    | Priscilla FX Nekomata Phaser  | ?        |
+
+## Repair:
+
+- ZOOM **MS-50G** (+ LED) — ***Уточнять в переписке***
+- Digitech **Digidelay** (+ LED) — ***Уточнять в переписке***
 
 ## Mods:
 
