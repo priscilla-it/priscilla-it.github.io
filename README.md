@@ -20,3 +20,5 @@
 |                    | Priscilla FX「M-Umineko」     | 16800 ₽   |
 |                    | Priscilla FX「TS-Special」    | 16800 ₽   |
 |                    | Priscilla FX「PRISCILLA」     | 16800 ₽   |
+
+[Дополнительная информация](DETAILS.md)
