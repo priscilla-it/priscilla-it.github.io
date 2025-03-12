@@ -1,9 +1,6 @@
 ## Mods:
 
 ### Без изменения оригинальной специфики схемы (Hi-Fi):
-- BOSS **DA-2 Hi-Fi** mod
-- BOSS **DD-20 Hi-Fi** mod
-- BOSS **OD-3 Hi-Fi** mod
 
   ※ TK имеет **SPI**, **WAXX**. В категории Hi-Fi - SPI, WAXX, WEED, PFX эквивалентны друг другу.
 
