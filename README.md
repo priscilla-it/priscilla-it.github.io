@@ -1,4 +1,4 @@
-# Pricilla Fx Price List
+# Priscilla Fx Price List
 
 [Связаться с нами: https://t.me/priscilla_ef](https://t.me/priscilla_ef)
 
