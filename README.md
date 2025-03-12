@@ -6,12 +6,14 @@
 |--------------------|-------------------------------|----------|
 | **Repair**         | ZOOM MS-50G (+ LED)           | Уточнять в переписке |
 |                    | Digitech Digidelay (+ LED)    | Уточнять в переписке |
+|                    |                               |          |
 | **Mods: Hi-Fi**    | BOSS DA-2 Hi-Fi mod           | 2800     |
 |                    | BOSS DD-20 Hi-Fi mod          | 2800     |
 |                    | BOSS OD-3 Hi-Fi mod           | 2800     |
 | **Mods: TK**       | BOSS LS-2 TK mod              | 4800     |
 |                    | BOSS OD-3 TK mod              | 6800     |
 |                    | BOSS SPH-1 TK mod             | 8800     |
+|                    |                               |          |
 | **Custom**         | Priscilla FX「LS-SR」 v1      | 2800     |
 |                    | Priscilla FX「HB Booster」    | 4800     |
 |                    | Priscilla FX「OD-820」        | 13800    |
