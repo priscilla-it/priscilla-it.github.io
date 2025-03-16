@@ -18,6 +18,7 @@
 |                      |                                                   |                      |
 | **Copy**             | Vemuram Jan Ray                                   | - ₽                  |
 |                      | Way Huge Red Llama 25th                           | - ₽                  |
+|                      | Xotic EP Booster                                  | - ₽                  |
 |                      | Fulltone OCD v1.2                                 | - ₽                  |
 |                      | Maxon OD-820                                      | 13800 ₽              |
 |                      |                                                   |                      |
