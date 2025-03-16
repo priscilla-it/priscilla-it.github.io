@@ -23,7 +23,7 @@
 |                      | Maxon OD-820                                      | 13800 ₽              |
 |                      |                                                   |                      |
 | **Custom**           | Priscilla FX「LS-SR」3PDT buffered bypass         | 2800 ₽               |
-|                      | Priscilla FX「LS-SR A/B Box」3PDT buffered bypass | 4800 ₽               |
+|                      | Priscilla FX「LS-SR A/B Box」3PDT buffered bypass | - ₽               |
 |                      | Priscilla FX「HB Booster」                        | 4800 ₽               |
 |                      | Priscilla FX「M-Umineko」                         | 16800 ₽              |
 |                      | Priscilla FX「TS-Special」                        | 16800 ₽              |
