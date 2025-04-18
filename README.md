@@ -28,10 +28,10 @@
 |                      | Maxon OD-820                                      | 13 790 ₽             |
 |                      | Maxon OD-820 TK Special                           | 14 790 ₽             |
 |                      |                                                   |                      |
-| **Custom**           | Priscilla FX「LS-SR」3PDT buffered bypass         | 2 990 ₽              |
-|                      | Priscilla FX「HB」Booster                         | 4 990 ₽              |
-|                      | Priscilla FX「LS-SR A/B Box」3PDT buffered bypass | 5 290 ₽              |
-|                      | Priscilla FX「Perfect Triangle」Fuzz              | - ₽                  |
-|                      | Priscilla FX「M-Umineko」Overdrive                | 17 790 ₽             |
-|                      | Priscilla FX「TS-Special」Overdrive               | 17 790 ₽             |
-|                      | Priscilla FX「PRISCILLA」Overdrive-Distortion     | 17 790 ₽             |
+| **Custom**           | Priscilla Fx「LS-SR」3PDT buffered bypass         | 2 990 ₽              |
+|                      | Priscilla Fx「HB」Booster                         | 4 990 ₽              |
+|                      | Priscilla Fx「LS-SR A/B Box」3PDT buffered bypass | 5 290 ₽              |
+|                      | Priscilla Fx「Perfect Triangle」Fuzz              | - ₽                  |
+|                      | Priscilla Fx「M-Umineko」Overdrive                | 17 790 ₽             |
+|                      | Priscilla Fx「TS-Special」Overdrive               | 17 790 ₽             |
+|                      | Priscilla Fx「PRISCILLA」Overdrive-Distortion     | 17 790 ₽             |
