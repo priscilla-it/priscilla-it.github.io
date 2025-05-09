@@ -30,7 +30,7 @@
 |                      |                                                   |                      |
 | **Custom**           | Priscilla Fx「LS-SR」3PDT buffered bypass         | 2 990 ₽              |
 |                      | Priscilla Fx「HB」Booster                         | 4 990 ₽              |
-|                      | Priscilla Fx「LS-SR A/B Box」3PDT buffered bypass | 5 290 ₽              |
+|                      | Priscilla Fx「LS-SR A/B Box」3PDT buffered bypass | 4 990 ₽              |
 |                      | Priscilla Fx「Perfect Triangle」Fuzz              | - ₽                  |
 |                      | Priscilla Fx「M-Umineko」Overdrive                | 17 790 ₽             |
 |                      | Priscilla Fx「TS-Special」Overdrive               | 17 790 ₽             |
