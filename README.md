@@ -17,7 +17,7 @@
 | **Mods: TK**         | BOSS LS-2 TK mod                                  | 3 990 ₽              |
 |                      | Maxon OD-820 TK mod (1 band Parametric EQ)        | 4 990 ₽              |
 |                      | BOSS OD-3 TK mod (SPI)                            | 6 990 ₽              |
-|                      | BOSS SPH-1 TK mod (WAXX + SPI)                    | 8 990 ₽              |
+|                      | Arion SPH-1 TK mod (WAXX + SPI)                    | 8 990 ₽              |
 |                      | BOSS BD-2 El Diablo 2 knob (TK / Suzuki Juko mod) | 12 790 ₽             |
 |                      |                                                   |                      |
 | **Copy**             | Vemuram Jan Ray                                   | - ₽                  |
